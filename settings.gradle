@@ -1,0 +1,2 @@
+rootProject.name = "Location_Manager_And_Provider"
+include ':app'
